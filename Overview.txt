@@ -1,0 +1,6 @@
+Dashboard Overview
+
+We will be creating a dashboard which will be a storyboard of the different effects of wine quality.
+ We will plot different graphs of different wine attributes to represent wine quality. 
+For example, we can show the effect when acid is added on, the amount of sulfur dioxide, alcohol, or PH level. 
+The wine may have different tastes with each of these ingredients. 
