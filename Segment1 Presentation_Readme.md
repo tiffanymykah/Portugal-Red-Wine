@@ -37,7 +37,7 @@ Attribute Information:
 
 Target Variable : 
 
-12. Description : Based on physiochemical data
+12. Description : wine described as either good or binary based on physiochemical data
 
 ## Questions to be answered with the data
 
