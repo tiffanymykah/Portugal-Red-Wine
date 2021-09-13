@@ -7,7 +7,7 @@ The topic of the project is Red Wine Qulality Prediction
 Red wine being the favorite beverage among the group, we decided to analyze it's quality basis the features available in the dataset. 
 The goal of selecting this topic is to investigate how the physicochemical (inputs) like alcohol %,chlorides,sulphates content etc varies 
 the quality of Wine. 
-By the use of several Machine learning models, we will predict the quality of the wine
+By the use of several Machine learning models, we will predict the quality of the wine as either good or average
 
 ## Description of the source of data
 
@@ -37,11 +37,10 @@ Attribute Information:
 
 Target Variable : 
 
-12. Quality : Based on sensory data, score between 3 and 8
+12. Description : Based on physiochemical data
 
 ## Questions to be answered with the data
 
-- Quality of the red wine basis sensory data, score between 3 and 8
 - Recomendation based on the wine quality
 
 
