@@ -80,15 +80,27 @@ the relatinship.
 
 ## Wine Quality
  This chart represented the red wine quality. There were bin ranges created on the quality attribute. Most of the wine quality is average level in bin ranges of 4.5. The data was filtered by the descriptions (Average, Good, Not Good) 
+ 
+ ![wine quality](https://user-images.githubusercontent.com/8925001/134858465-74e86dff-fcba-4884-994e-8ed6c5a61b31.png)
+
 
 ## Sulphate Quality
   This was a bar chart of the sulphates against the quality. The sulphate quality is also average level at most bin quantities. Only some of the sulphates have good quality and very few have not good quality. The data was filtered by descriptions (average, good, and not good)
   
+  ![sulphate quality](https://user-images.githubusercontent.com/8925001/134858524-a2abe9a7-6cd9-4041-a5e6-9f1e81c3d538.PNG)
+
+  
  ## Alcohol vs Quality
   This was a line chart with alcohol vs quality. The alcohol that was described as good had higher quality level than other types. The alcohol described as not good was a straight line. The alcohol described as average fluctuated up and down from 6 and below. There was no filtered data for this chart.
   
+  ![Alcohol Quality](https://user-images.githubusercontent.com/8925001/134858554-09a979d3-386c-4ed5-87cc-38562b18baeb.PNG)
+
+  
  ## Acidity
   This was a bar chart of chlorides vs acidity levels. Most of the chlorides are at average level. Some of the chlorides were at good level. Only few of them were at not good level. Those chlorides have higher fixed acidity than volatile acidity. There was no filtered data for this chart. There were different colors used to indicate each type of chloride.  
+  
+  ![acidity](https://user-images.githubusercontent.com/8925001/134858580-76eda7d9-438c-4d55-9c4b-974276054919.PNG)
+
 
 
 
