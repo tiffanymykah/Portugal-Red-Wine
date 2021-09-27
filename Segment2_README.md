@@ -78,8 +78,19 @@ the relatinship.
 
 - We made different data visualization charts using tableau. From kaggle we downloaded the Red Wine Quality Dataset and imported that file into tableau. The charts represented wine, alcohol, sulphate quality, as well as acidity levels of chlorides.
 
-** Wine Quality
+## Wine Quality
  This chart represented the red wine quality. There were bin ranges created on the quality attribute. Most of the wine quality is average level in bin ranges of 4.5. The data was filtered by the descriptions (Average, Good, Not Good) 
+
+## Sulphate Quality
+  This was a bar chart of the sulphates against the quality. The sulphate quality is also average level at most bin quantities. Only some of the sulphates have good quality and very few have not good quality. The data was filtered by descriptions (average, good, and not good)
+  
+ ## Alcohol vs Quality
+  This was a line chart with alcohol vs quality. The alcohol that was described as good had higher quality level than other types. The alcohol described as not good was a straight line. The alcohol described as average fluctuated up and down from 6 and below. There was no filtered data for this chart.
+  
+ ## Acidity
+  This was a bar chart of chlorides vs acidity levels. Most of the chlorides are at average level. Some of the chlorides were at good level. Only few of them were at not good level. Those chlorides have higher fixed acidity than volatile acidity. There was no filtered data for this chart. There were different colors used to indicate each type of chloride.  
+
+
 
 
 
