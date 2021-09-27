@@ -74,5 +74,12 @@ the relatinship.
 - Density is highly correlated with fixed acidity and negatively correlated with alcohol
 - Alcohol is highly correlated with quality and has negative correlation with density
 
+## Dashboard
+
+- We made different data visualization charts using tableau. From kaggle we downloaded the Red Wine Quality Dataset and imported that file into tableau. The charts represented wine, alcohol, sulphate quality, as well as acidity levels of chlorides.
+
+** Wine Quality
+ This chart represented the red wine quality. There were bin ranges created on the quality attribute. Most of the wine quality is average level in bin ranges of 4.5. The data was filtered by the descriptions (Average, Good, Not Good) 
+
 
 
