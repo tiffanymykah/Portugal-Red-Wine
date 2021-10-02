@@ -1,9 +1,6 @@
-# Communication:
+# Presentation Slides
 
-- Slack
-- Google Doc: https://docs.google.com/document/d/1S1iT_odxaOce4iZTlY8RErAS08VR3JB_ipemXPHu_QY/edit
-- Zoom
-- Github
+https://docs.google.com/presentation/d/13iBVAwCW7nVu1PN9-PxDMlZ2ScLaE1C7cwxS58eAy3k/edit#slide=id.gf2e70d8c6f_2_98
 
 # Outline of the project
 
