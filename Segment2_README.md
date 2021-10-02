@@ -127,5 +127,11 @@ Criteria for model choice (decision tree):
 
 ![Decision Tree Confusion matrix](https://user-images.githubusercontent.com/16930677/135716329-8266c898-83af-41e0-9317-73ee1bcc1b04.PNG)
 
+## Train the ML Model with Random Forest Classifier
+
+![Random Forest Confusion Matrix](https://user-images.githubusercontent.com/16930677/135716406-9bdbf242-7865-4b14-b557-711b75552540.PNG)
+
+
+Slightly better accuracy, but more importantly, more sensitive model - This is important because we don't want to miss any good bottles of wine!
 
 
