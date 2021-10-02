@@ -100,6 +100,32 @@ the relatinship.
 
 
 
+# Machine Learning Analysis
+
+## Data Preprocessing
+
+Data precrocessing will be kept to a minimum, because there are no null values, no missing values, and all values are numerical.
+
+- Separating feature data and label data per usual
+- Labels will be encoded for binary classifiers "good" and "not good"
+- Splitting into training (80%) and testing (20%) data sets
+- Creating standard scalars to decrease unecessary effects of features with large values on model
+
+## Train the ML Model with Standard Decision Tree
+Feature selection:
+- All 11 phsyiochemical features are selected providing the most input data to train the model.
+- 1 relative ranking feature, quality, is selected as well
+Feature engineering:
+- Quality is conditionally converted to a binary classification as either Good or Not Good.
+- Wines with a quality score 7 or greater = Good, 6 or lower = Not good
+- This engineering was done prior to joining the tables when loading in the data
+Criteria for model choice (decision tree):
+- Because missing data effects this type of model the least, this allows us to use this type of model in the future if we have less information about a wine.
+- Despite the greater computation expense, the dataset being used is reasonably small and manageable w/respect to computation time.
+
+## Decision Tree Model Performance
+
+![Decision Tree Confusion matrix](https://user-images.githubusercontent.com/16930677/135716329-8266c898-83af-41e0-9317-73ee1bcc1b04.PNG)
 
 
 
