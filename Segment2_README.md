@@ -82,22 +82,41 @@ the relatinship.
 
 
 ## Sulphate Quality
-  This was a bar chart of the sulphates against the quality. The sulphate quality is also average level at most bin quantities. Only some of the sulphates have good quality and very few have not good quality. The data was filtered by descriptions (average, good, and not good)
+  This chart shows a positive correlation between sulphates and quality. The data is filtered by average, good and not good description.
   
-  ![sulphate quality](https://user-images.githubusercontent.com/8925001/134858524-a2abe9a7-6cd9-4041-a5e6-9f1e81c3d538.PNG)
+  ![sulphate quality](https://user-images.githubusercontent.com/8925001/135773186-6ad62261-cac2-404f-8803-4668281a1821.PNG)
 
   
  ## Alcohol vs Quality
-  This was a line chart with alcohol vs quality. The alcohol that was described as good had higher quality level than other types. The alcohol described as not good was a straight line. The alcohol described as average fluctuated up and down from 6 and below. There was no filtered data for this chart.
+  This chart shows a positive correlation between alcohol and wine quality. The data is filtered by average, good and not good. 
   
-  ![Alcohol Quality](https://user-images.githubusercontent.com/8925001/134858554-09a979d3-386c-4ed5-87cc-38562b18baeb.PNG)
+  ![alcohol quality](https://user-images.githubusercontent.com/8925001/135773264-2f336611-9984-47ae-b289-a384c572e50f.PNG)
 
   
  ## Acidity
-  This was a bar chart of chlorides vs acidity levels. Most of the chlorides are at average level. Some of the chlorides were at good level. Only few of them were at not good level. Those chlorides have higher fixed acidity than volatile acidity. There was no filtered data for this chart. There were different colors used to indicate each type of chloride.  
+  This was a bar chart of chlorides vs acidity levels. Most of the chlorides are at average level.
   
-  ![acidity](https://user-images.githubusercontent.com/8925001/134858580-76eda7d9-438c-4d55-9c4b-974276054919.PNG)
+  ![acidity](https://user-images.githubusercontent.com/8925001/135773320-fe5ccb61-bfca-48cc-8bfa-1d439aa6e467.PNG)
+  
+ ## Sulfur dioxide vs quality
+  This is a bar chart of sulfur dioxide vs wine quality in respective bin quality ranges.
+  
+  ![sulfur dioxide](https://user-images.githubusercontent.com/8925001/135773433-280226d1-523c-44c5-8fe5-6fd694e2869f.PNG)
 
+ ## Citric acid vs quality
+  This is a bar chart of citric acid vs wine quality in respective bin quality ranges.
+  
+  ![citric acid](https://user-images.githubusercontent.com/8925001/135773471-6bb3a236-e32b-45b4-8d6f-602621be6924.PNG)
+
+ ## Chlorides vs quality
+ This is bar chart of chlorides vs wine quality in respective bin quality ranges.
+ 
+ ![chlorides](https://user-images.githubusercontent.com/8925001/135773499-769c1251-da43-4a70-9cae-d97d74022138.PNG)
+
+## Dashboard
+This dashboard shows 2 different charts from earlier worksheets and the decision tree which is our machine learning model.
+
+![Dashboard](https://user-images.githubusercontent.com/8925001/135773578-10ca443a-be12-467b-8ed0-500a194f404a.PNG)
 
 
 # Machine Learning Analysis
