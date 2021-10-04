@@ -116,7 +116,9 @@ the relatinship.
 ## Dashboard
 This dashboard shows 2 different charts from earlier worksheets and the decision tree which is our machine learning model.
 
-![Dashboard](https://user-images.githubusercontent.com/8925001/135773578-10ca443a-be12-467b-8ed0-500a194f404a.PNG)
+![Dashboard](https://user-images.githubusercontent.com/8925001/135799324-12e7498d-e20d-4532-9af3-9424c470152a.PNG)
+
+
 
 
 # Machine Learning Analysis
