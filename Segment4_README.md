@@ -4,7 +4,7 @@ https://docs.google.com/presentation/d/13iBVAwCW7nVu1PN9-PxDMlZ2ScLaE1C7cwxS58eA
 
 # Team
 
-- Data connection and EDA: Jeesha Vij
+- Database connection and EDA: Jeesha Vij
 - Machine Learning: Lars Knutsad and Jeesha Vij
 - Dashboard: Indranil Karmarkar
 
